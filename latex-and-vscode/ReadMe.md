@@ -44,8 +44,8 @@ This installation/configuration guide is a based on [Visual Studio Code with LaT
             - `C:\Strawberry\perl\bin`
 6. Reboot your Computer
 7. Launch `VS Code` and Install the following Extensions
-    1. `Latex Workshop`
-    2. `Latex Utilities`
+    1. [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+    2. [Latex Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
 
 ## Test the Installation with the Include Latex Files
 1. Open `hello_world.tex`
