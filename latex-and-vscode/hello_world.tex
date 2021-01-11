@@ -1,5 +1,29 @@
-\documentclass{article}
+\documentclass{BasicReport}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{fancyhdr}
+    \renewcommand{\sfdefault}{phv}
+    \renewcommand{\familydefault}{\sfdefault}
+\pagestyle{fancy}
+\fancyhead[R]{\thepage}
+
+\title{Hello World\large \\
+An Exmaple of Common Latex Elements}
+\author{Connor Dack}
+\date{January, 2021}
 
 \begin{document}
-Hello World!
+\maketitle
+
+\newpage
+\tableofcontents
+
+% Document Body
+\include{examples}
+
+% Appendix Sections
+
 \end{document}
