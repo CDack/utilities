@@ -47,7 +47,7 @@ This installation/configuration guide is a based on [Visual Studio Code with LaT
     1. [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
     2. [Latex Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
 
-## Test the Installation with the Include Latex Files
+## Test the Installation with the Included Latex Files
 1. Open `hello_world.tex`
 2. Generate the PDF by using `CTRL+ALT+B` or `CTRL+S`: Note this will take a couple seconds depending on computer
 3. Open the generated PDF
